@@ -20,14 +20,14 @@ app.use("/public", express.static(path.join(__dirname, "public")));
 
 app.use(router);
 
-mongoose.connection.on("connection", () => {
+mongoose.connection.on("connected", () => {
   console.log("mongodb connection succesfull");
   startServer();
 });
 
 const startServer = () => {
   app.listen(PORT, () => {
-    console.log(`server is running on port ${PORT}`);
+    console.log("app started on http://localhost:" + PORT);
   });
 };
 
