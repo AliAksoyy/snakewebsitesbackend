@@ -1,0 +1,36 @@
+[
+  {
+    "id": "Snake Online Is On The Way!",
+    "en": {
+      "date": "AUG 07, 2023",
+      "title": "Snake Online Is On The Way!",
+      "mdContent": "mdFiles/Snake Online Is On The Way!.md"
+    },
+    "tr": {
+      "date": "07 AĞU 2023",
+      "title": "Snake Online Yolda!",
+      "mdContent": "mdFiles/Snake Online Yolda!.md"
+    },
+    "homeNewsImg": "newsImage/homeNewsSnake_Online.png",
+    "newsPageCardImg": "newsImage/newsPageCardSnake_Online.png",
+    "newsPageSmallCardImg": "newsImage/newsPageSmallCardSnake_Online.png",
+    "newsDetailImage": "newsImage/newsDetailSnake_Online.png"
+  },
+  {
+    "id": "Discover the World of Snake Online!",
+    "en": {
+      "date": "AUG 25, 2023",
+      "title": "Discover the World of Snake Online!",
+      "mdContent": "mdFiles/Discover the World of Snake Online!.md"
+    },
+    "tr": {
+      "date": "25 AĞU 2023",
+      "title": "Snake Online Dünyasını Keşfedin!",
+      "mdContent": "mdFiles/Snake Online Dünyasını Keşfedin!.md"
+    },
+    "homeNewsImg": "newsImage/homeNewsDiscover.png",
+    "newsPageCardImg": "newsImage/newsPageCardDiscover.png",
+    "newsPageSmallCardImg": "newsImage/newsPageSmallCardDiscover.png",
+    "newsDetailImage": "newsImage/newsDetailDiscover.png"
+  }
+]
