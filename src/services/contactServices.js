@@ -7,6 +7,7 @@ const addMessageService = async ({
   email,
   topic,
   message,
+  messageId,
 }) => {
   const contactMessage = new ContactMessage({
     id: uniqid(),
@@ -15,6 +16,7 @@ const addMessageService = async ({
     email,
     topic,
     message,
+    messageId,
   });
   await contactMessage.save();
 
